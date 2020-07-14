@@ -1,2 +1,7 @@
 # Solucion-UAndes
-The solution to examination problems
+Solucion a problemas de -Examen para candidatos a dictar cursos computacionales-
+
+##Problema 1: 
+
+##Problema 2: 
+
