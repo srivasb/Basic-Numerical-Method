@@ -11,6 +11,8 @@ https://www.youtube.com/watch?v=HjQZ10cEij4
 
 ## Problema 3:
 
+Se asume que el estudiante ya conoce el metodo de regresion lineal de sus cursos de laboratorio. Aqui, simplemente, se muestran funciones de Python para hacer el proceso mas eficiente:
+
 Regresión Lineal: 
  - from sklearn.linear_model import LinearRegression
  - from sklearn.metrics import r2_score
